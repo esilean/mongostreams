@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L2oIC8O7y5l59GuvSB3m5TADim/HSyK3I3RYa8QoLCs=",
+  "Source": "mongowatch.api",
+  "BasePath": "_content/mongowatch.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
